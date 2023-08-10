@@ -1,4 +1,4 @@
-## Oiii eu sou o William Souza, analista de programação e tecnologia!
+## Oiii eu sou o William Souza, analista de desenvolvimento de sistemas!
 
 - 🌱 Atualmente estou estudando pandas
 - ⚡ Meu Site [BlueFeather](https://bluefeather.com.br/)
