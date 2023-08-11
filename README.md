@@ -4,7 +4,7 @@
 - ⚡ Meu Site [BlueFeather](https://bluefeather.com.br/)
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-feather&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-feather&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will-feather&layout=compact&theme=onedark&langs_count=8)
 
 <div style="display: inline_block"><br>
