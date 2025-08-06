@@ -1,4 +1,4 @@
-## Oiii eu sou o William Souza, analista de desenvolvimento de sistemas!
+## Oiii eu sou o William Souza, Analista Desenvolvedor de Sistemas | Python | Django | SQL | PHP | Power BI
 
 - 🌱 Atualmente estou estudando pandas e N8N.
 - ⚡ Meu Site [BlueFeather](https://bluefeather.com.br/)
