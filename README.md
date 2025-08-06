@@ -4,8 +4,8 @@
 - ⚡ Meu Site [BlueFeather](https://bluefeather.com.br/)
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-feather&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will-feather&layout=compact&theme=onedark&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-ssilva&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will-ssilva&layout=compact&theme=onedark&langs_count=8)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
