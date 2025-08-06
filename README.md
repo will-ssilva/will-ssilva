@@ -1,6 +1,6 @@
 ## Oiii eu sou o William Souza, analista de desenvolvimento de sistemas!
 
-- 🌱 Atualmente estou estudando pandas
+- 🌱 Atualmente estou estudando pandas e N8N.
 - ⚡ Meu Site [BlueFeather](https://bluefeather.com.br/)
 <br>
 
